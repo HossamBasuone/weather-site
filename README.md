@@ -66,15 +66,18 @@ js
 Copy
 Edit
 const res = await fetch(
-  `https://api.weatherapi.com/v1/forecast.json?key=63ffea778fe04d7d806135143240412&q=${country}&days=3`
-);
+  `https://api.weatherapi.com/v1/forecast.json?key=63ffea778fe04d7d806135143240412&q=${country}&days=3`);
+
 If you want to use your own API key:
 
 Sign up at WeatherAPI.com.
+
 Replace the key in js/js.js:
+
 js
 Copy
 Edit
+
 const apiKey = "YOUR_API_KEY_HERE";
 
 ![image](https://github.com/user-attachments/assets/b2d8b30a-2621-4030-8cff-ebf404b91b09)
