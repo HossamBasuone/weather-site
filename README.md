@@ -3,10 +3,15 @@
 A simple weather forecasting web app that fetches real-time weather data using the WeatherAPI and displays a 3-day forecast. The app is built with HTML, CSS, Bootstrap, and JavaScript.
 
 ✨ Features
+
 📍 Search for any city and get real-time weather data
+
 🌡 Displays temperature, wind speed, and rain probability
+
 🔄 Fetches and updates weather dynamically
+
 🎨 Responsive and modern UI using Bootstrap
+
 🚀 Live Demo
 
 https://hossambasuone.github.io/weather-site/
