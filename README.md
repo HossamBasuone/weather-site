@@ -19,10 +19,15 @@ https://hossambasuone.github.io/weather-site/
 🛠 Technologies Used
 
 HTML5 & CSS3
+
 Bootstrap 5
+
 JavaScript (Fetch API)
+
 WeatherAPI.com for real-time data
+
 ⚙️ Installation & Running Locally
+
 Follow these steps to run the project on your local machine:
 
 1️⃣ Clone the Repository
