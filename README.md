@@ -8,9 +8,11 @@ A simple weather forecasting web app that fetches real-time weather data using t
 🔄 Fetches and updates weather dynamically
 🎨 Responsive and modern UI using Bootstrap
 🚀 Live Demo
-🔗 Weather Site - Live Preview
+
+https://hossambasuone.github.io/weather-site/
 
 🛠 Technologies Used
+
 HTML5 & CSS3
 Bootstrap 5
 JavaScript (Fetch API)
@@ -64,4 +66,5 @@ Copy
 Edit
 const apiKey = "YOUR_API_KEY_HERE";
 
-![image](https://github.com/user-attachments/assets/86277e55-b91a-4baf-950f-166ca1558c65)
+![image](https://github.com/user-attachments/assets/b2d8b30a-2621-4030-8cff-ebf404b91b09)
+
