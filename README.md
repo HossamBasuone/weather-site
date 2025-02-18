@@ -39,10 +39,15 @@ python -m http.server 5500
 Then, open http://localhost:5500/ in your browser.
 
 📝 How It Works
+
 Enter a city name in the search bar.
+
 Click the Search button (or type in the input field).
+
 The app fetches the weather data from the WeatherAPI.
+
 It displays:
+
 Current temperature 🌡
 Weather condition (e.g., sunny, rainy) 🌤️
 Wind speed 💨
