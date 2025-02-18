@@ -49,11 +49,17 @@ The app fetches the weather data from the WeatherAPI.
 It displays:
 
 Current temperature 🌡
+
 Weather condition (e.g., sunny, rainy) 🌤️
+
 Wind speed 💨
+
 Chance of rain ☔
+
 3-day forecast 📅
+
 🔧 API Key Configuration
+
 This project uses the WeatherAPI. The API key is already included in the code:
 
 js
