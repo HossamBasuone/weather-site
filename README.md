@@ -1,7 +1,3 @@
-Here’s a **well-structured and professional README** for your **Weather Site** project:  
-
----
-
 # 🌤 **Weather Site**  
 
 A simple and responsive **weather forecasting web app** that provides real-time weather data and a **3-day forecast**. Built using **HTML, CSS, Bootstrap, and JavaScript**, the app fetches live weather information from **WeatherAPI**.  
